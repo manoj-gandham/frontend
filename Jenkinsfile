@@ -2,3 +2,4 @@
 
 env.component="frontend"
 nginx()
+env.schema_dir=''
